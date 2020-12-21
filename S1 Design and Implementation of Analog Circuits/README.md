@@ -44,6 +44,8 @@ Mismatch in transistor circuits
 
 Razavi, Behzad. *Design of analog CMOS integrated circuits*. Tata McGraw-Hill Education, 2002.
 
+杨建国，新概念模拟电路，Analog Device, Inc.
+
 **OCWs:**
 
 Electronic Circuits 1, Prof. Behzad Razavi, UCLA
@@ -52,5 +54,5 @@ Electronic Circuits 2, Prof. Behzad Razavi, UCLA
 
 [New Analog Circuit Design, Prof. Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
 
-[New Concept Analog Circuits, Prof. JianGuo Yang, XJTU](https://www.bilibili.com/video/BV1xE411N7EZ)
+[新概念模拟电路，杨建国教授，西安交通大学](https://www.bilibili.com/video/BV1xE411N7EZ)
 
