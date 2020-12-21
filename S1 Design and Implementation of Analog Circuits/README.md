@@ -4,7 +4,7 @@
 
 **Aims:**
 
-This course is about the design, the layout and the implementation analog circuits, with a strong emphasis on integrated transistorcircuits.
+This course is about the design, the layout and the implementation analog circuits, with a strong emphasis on integrated transistor circuits.
 
 The student understands the different trade-offs related to the design of a transistor circuit
 
@@ -39,3 +39,18 @@ Noise in transistor circuits
 Distortion in transistor circuits
 
 Mismatch in transistor circuits
+
+**Books:**
+
+Razavi, Behzad. *Design of analog CMOS integrated circuits*. Tata McGraw-Hill Education, 2002.
+
+**OCWs:**
+
+Electronic Circuits 1, Prof. Behzad Razavi, UCLA
+
+Electronic Circuits 2, Prof. Behzad Razavi, UCLA
+
+[New Analog Circuit Design, Prof. Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
+
+[New Concept Analog Circuits, Prof. JianGuo Yang, XJTU](https://www.bilibili.com/video/BV1xE411N7EZ)
+
