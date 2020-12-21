@@ -26,3 +26,9 @@ This course studies the basic algorithms as used in advanced electronic CAD tool
 
    Importance of design verification and testing. Techniques for fault analysis and test generation. Design for testability methods.
 
+**OCWs:**
+
+[VLSI CAD Part 1: Logic, Prof. Rob A. Rutenbar, UIUC](https://www.coursera.org/learn/vlsi-cad-logic)
+
+[VLSI CAD Part 2: Layout, Prof. Rob A. Rutenbar, UIUC](https://www.coursera.org/learn/vlsi-cad-logic)
+
