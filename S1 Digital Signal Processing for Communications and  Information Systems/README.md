@@ -22,7 +22,6 @@ Part I: Introduction
 
 3. Acoustic Modem Project
 
-   
 
 Part II : Filter Design & Implementation
 
@@ -31,8 +30,6 @@ Part II : Filter Design & Implementation
 5. Filter Realization
 
 6. Filter Implementation
-
- 
 
 Part III : Optimal & Adaptive Filtering
 
@@ -44,8 +41,6 @@ Part III : Optimal & Adaptive Filtering
 
 10. Kalman Filters
 
- 
-
 Part IV : Filter Banks and Time-Frequency Transforms
 
 11. Filter Banks Preliminaries
@@ -56,8 +51,10 @@ Part IV : Filter Banks and Time-Frequency Transforms
 
 14. Time-Frequency Analysis and Scaling
 
- 
-
 Part V : Outro
 
 15. DSP in Digital Subscriber Line (DSL) technologies 
+
+**OCWs:**
+
+[Digital Signal Processing EE123, Prof. Miki Lustig, UC Berkeley](https://www.youtube.com/playlist?list=PLSFazQ8nHIuMbuMpAxZQLkwV7TyXv5x7U)

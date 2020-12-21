@@ -20,7 +20,7 @@ Periodic structure of crystalline solid state
 Part 1: Crystal periodicity and symmetry properties of crystal structures
 Part 2: Crystal structure of semiconductors
 Part 3: The reciprocal lattice
- 
+
 Band theory of crystalline solids
 Part 1: Schrödinger equation : consequences of crystal symmetry
 Part 2: Properties of the band structure of solids
@@ -35,13 +35,13 @@ Part 3: Electron and hole densities : the Fermi level
 Dynamics of electrons and holes
 Part 1: Motion of electrons in a crystal : the effective mass theorem/approximation
 Part 2: Semiclassical theory of electron dynamics in solids
- 
+
 Particle transport in semiconductors
 Part 1: Scattering
 Part 2: Boltzmann transport equation (1)
 Part 3: Boltzmann transport equation (2) : approximate solution
 Part 4: Low-field transport with and without a weak magnetic field
- 
+
 Transport in semiconductors with excess charges
 
 Part 1: Generation and recombination in semiconductors

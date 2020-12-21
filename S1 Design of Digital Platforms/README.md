@@ -32,3 +32,8 @@ The lecture series of the course "design of digital platforms" contains the foll
 - Usage of transformations at the algorithmic and hardware level to reach design goals
 - Large variation of digital platforms for embedded systems
 - Impact from technology scaling on digital platform design and selection
+
+
+
+**OCWs:**
+
