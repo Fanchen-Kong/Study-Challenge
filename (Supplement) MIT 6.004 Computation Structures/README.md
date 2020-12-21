@@ -1,6 +1,6 @@
 
 
-# MIT 6.004 Computation Structures(Supplemented Course)
+# MIT 6.004 Computation Structures (Supplemented Course)
 
 Instructors: Chris Terman
 
