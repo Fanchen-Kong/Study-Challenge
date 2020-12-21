@@ -34,8 +34,16 @@ An overview of Computer Architectures for Desktop, Server, and Embedded Computer
 
 **Books:**
 
-Computer Organization and Design, Fourth Edition:
+Computer Organization and Design, Fourth Edition: The Hardware/Software Interface, David A.Patterson John L.Hennessy
 
-The Hardware/Software Interface
+Computer Architecture: A Quantitative Approach (5th Edition), John L.Hennessy, David A. Patterson
 
-David A. Patterson, John L. Hennessy Mainly covering chapter 4, 5, 6 and 7.
+Modern Processor Design: Fundamentals of Superscalar Processors
+
+**OCWs:**
+
+[Computer Architecture, Prof. David Wentzlaff, Princeton University](https://www.coursera.org/learn/comparch/home/welcome)
+
+[Computer Organization and Architecture, Prof. Amir H. Ashouri, York University](https://www.youtube.com/watch?v=ucUHpSYm08U&list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW&ab_channel=AmirH.Ashouri)
+
+[计算机组成原理, 刘宏伟教授, 哈尔滨工业大学](https://www.icourse163.org/course/HIT-309001)

@@ -30,8 +30,8 @@ Session 9: Electrically small antennas
 
 Session 10: Antennas: selected overview: resonant antennas, traveling wave antennas, Yagi antennas, helical antennas
 
-**Courses:**
+**OCWs:**
 
-[天线原理与基本参数-陈士元](https://www.bilibili.com/video/BV1yt411o7KT?from=search&seid=1532403221609018272)
+[天线原理与基本参数-陈士元](https://www.youtube.com/watch?v=JsVGW3z81wc&ab_channel=%E9%99%B3%E5%A3%AB%E5%85%83)
 
-[天线阵列理论-陈士元](https://www.bilibili.com/video/BV1Ct411o7Bw?from=search&seid=1532403221609018272)
+[天线阵列理论-陈士元](https://www.youtube.com/watch?v=7cA4ysOjD5U&ab_channel=%E9%99%B3%E5%A3%AB%E5%85%83)
