@@ -10,7 +10,11 @@ Course labs: https://www.nand2tetris.org
 
 Textbook: [The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) by Noam Nisan and Shimon Schocken
 
-Time line: Finished first part during 12/25/2020-12/30/2020
+Time line: 
+
+Finished first part during 12/25/2020-12/30/2020
+
+
 
 This course is the supplemented course of my project. 
 
@@ -24,7 +28,9 @@ By and large, I would like to sincerely thank Prof. Shimon Schocken and Prof. No
 
 
 
-时间线：于12/25/2020-12/30/2020完成课程第一部分
+
+
+时间线：于12/25/2020-12/30/2020完成第一部分课程
 
 这门课程是我学习挑战计划中的补充课程。
 
