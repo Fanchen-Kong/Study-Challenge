@@ -24,7 +24,7 @@ By and large, I would like to sincerely thank Prof. Shimon Schocken and Prof. No
 
 
 
-时间线：于12/25/2020-12/30/2020完成第一部分
+时间线：于12/25/2020-12/30/2020完成课程第一部分
 
 这门课程是我学习挑战计划中的补充课程。
 
