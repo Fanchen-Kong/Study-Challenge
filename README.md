@@ -10,6 +10,12 @@ During this project, I will upload the course materials (videos, slides, resourc
 
 Anyway, let's cut the crap and get started.
 
+
+
+Time line: 
+
+Finished [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Build%20a%20Modern%20Computer%20from%20First%20Principles) during 12/25/2020-12/30/2020
+
 # KU Leuven学习挑战
 
 各位好，我是一名拿到KU Leuven MSEE录取的学生。由于本科所学的专业（自动化）和鲁汶录取的track(Electronics and Chip Design)有一定差距，并且耳闻鲁汶的课业压力巨大，所以想通过这次挑战提前通过网络上优质资源给自己一定的知识储备以应对未来的硕士课程。
@@ -18,7 +24,12 @@ Anyway, let's cut the crap and get started.
 
 对于每门科目，我会尽量找到有相似培养目标的优质教学资源，并且完成完成课后习题。我深知要学好微电子不仅是读书做题的事情，还需要上手操作才能真正了解知识，所以我计划把每门课都分为课程与实践两部分，尽可能在完成每一门课后根据课程内容做出一些小项目，比如在学习[Computer Architectures](https://onderwijsaanbod.kuleuven.be/2020/syllabi/e/H05D3AE.htm#activetab=doelstellingen_idp127936)这门课时，我会尝试去完成一个五级流水线、兼容MIPS架构的CPU项目。
 
-在计划的进行过程中，我会以时间线的方式提交自己的学习进度，并且上传自己所参考的课程、书目以及项目资源。
+在计划的进行过程中，我会以时间线的方式记录自己的学习进度，并且上传自己所参考的课程、书目以及项目资源。
 
 那么，让我们开始吧。
 
+
+
+时间线：
+
+于12/25/2020-12/30/2020完成了 [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Build%20a%20Modern%20Computer%20from%20First%20Principles)
