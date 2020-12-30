@@ -1,6 +1,10 @@
 
 
-# Mathematical Methods for Physics
+# Mathematical Methods for Physics（Supplemented Course）
+
+**OCWS:**
+
+[数学物理方法, 吴崇试教授，北京大学](http://www.icourses.cn/sCourse/course_3569.html)
 
 **Books:**
 
