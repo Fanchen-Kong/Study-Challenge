@@ -58,3 +58,4 @@ Chenming C. Hu, Modern Semiconductor Devices for Integrated Circuits (2009, Pren
 
 [半导体组件物理，施敏教授，国立交通大学](https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=1751)
 
+[Primer on Semiconductor Fundamentals, Prof. Mark Lundstrom, Purdue University](https://nanohub.org/courses/psf)
