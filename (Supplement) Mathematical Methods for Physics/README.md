@@ -8,4 +8,8 @@
 
 **Books:**
 
-顾樵. 数学物理方法[M]. 科学出版社, 2012.
+Sadri Hassani, Mathematical Methods Using Mathematica-For Students Of Physics And Related Fields (2003, Springer)
+
+吴崇试, 数学物理方法[M], 北京大学出版社, 2003
+
+顾樵, 数学物理方法[M], 科学出版社, 2012
