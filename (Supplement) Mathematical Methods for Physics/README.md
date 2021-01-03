@@ -26,5 +26,5 @@ Hassani, Sadri. *Mathematical Methods Using Mathematica®: For Students of Physi
 
 This course is the supplement course of my project.
 
-In the first part of learning mathematical methods for physics, followed the organization of Wu's book, I reviewed some key concepts of complex analysis, including Analytic Functions, Conformal Mappings, Complex Integration, Power Series, Laurent Series and the Residue Theorem.
+In the first part of learning mathematical methods for physics, followed the organization of Wu's book, I reviewed some key concepts of complex analysis including Analytic Functions, Conformal Mappings, Complex Integration, Power Series, Laurent Series and the Residue Theorem by taking [Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis),. 
 
