@@ -48,6 +48,8 @@ Razavi, Behzad. *Design of analog CMOS integrated circuits*. Tata McGraw-Hill Ed
 
 **OCWs:**
 
+[Essentials of MOSFETs, Prof. Mark Lundstrom, Purdue University](https://nanohub.org/courses/mos)
+
 Electronic Circuits 1, Prof. Behzad Razavi, UCLA
 
 Electronic Circuits 2, Prof. Behzad Razavi, UCLA
