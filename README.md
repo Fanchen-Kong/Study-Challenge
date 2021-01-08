@@ -22,7 +22,7 @@ Time line:
 
 各位好，我是一名拿到KU Leuven MSEE录取的学生。由于本科所学的专业（自动化）和鲁汶录取的 track (Electronics and Chip Design) 有一定差距，并且耳闻鲁汶的课业压力巨大，所以想通过这次挑战提前通过网络上优质资源给自己一定的知识储备以应对未来的硕士课程。
 
-在未来的10个月（2021/1/1-2021/9/31），我计划自学 KU Leuven MSEE (Electronics and Chip Design) [培养计划](https://onderwijsaanbod.kuleuven.be/2020/opleidingen/e/SC_55032326.htm)中的15门必修课程，并且辅以相关的基础课程作为补充。在培养计划中，我们能找到每门课的目标和大致的教学计划，有些还会列出教学参考书目，从而方便了我查找相似课程的公开课并且提前熟悉知识架构。
+在未来的10个月（2021/1/1-2021/9/31），我计划自学 KU Leuven MSEE (Electronics and Chip Design) [培养计划](https://onderwijsaanbod.kuleuven.be/2020/opleidingen/e/SC_55032326.htm) 中的15门必修课程，并且辅以相关的基础课程作为补充。在培养计划中，我们能找到每门课的目标和大致的教学计划，有些还会列出教学参考书目，从而方便了我查找相似课程的公开课并且提前熟悉知识架构。
 
 对于每门科目，我会尽量找到有相似培养目标的优质教学资源，并且完成完成课后习题。我深知要学好微电子不仅是读书做题的事情，还需要上手操作才能真正了解知识，所以我计划把每门课都分为课程与实践两部分，尽可能在完成每一门课后根据课程内容做出一些小项目，比如在学习 [Computer Architectures](https://onderwijsaanbod.kuleuven.be/2020/syllabi/e/H05D3AE.htm#activetab=doelstellingen_idp127936) 这门课程时，我会尝试去完成一个五级流水线、兼容MIPS架构的CPU项目。
 
