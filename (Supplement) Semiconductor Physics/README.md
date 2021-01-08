@@ -50,9 +50,7 @@ Part 3: Balance equations + examples
 
 **Books:**
 
-Simon M. Sze, Ming-Kwei Lee, Semiconductor Devices: Physics and Technology (2012, Wiley) 
-
-Chenming C. Hu, Modern Semiconductor Devices for Integrated Circuits (2009, Prentice Hall)
+Sze, Simon Min. *Semiconductor devices: physics and technology*. John wiley & sons, 2012.
 
 **OCWs:**
 
