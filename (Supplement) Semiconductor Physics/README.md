@@ -16,9 +16,13 @@ Syllabus of this course @ KU Leuven could be found on [Semiconductor Physics (B-
 
 Sze, Simon Min. *Semiconductor devices: physics and technology*. John wiley & sons, 2012.
 
-This course is the supplement course of my project.
-
 **Time line:**
 
 - Finished *Primer on Semiconductor Fundamentals* during 1/6/2021-1/10/2021
+
+This course is the supplement course of my project.
+
+The purpose of this course is to provide the essential foundations required to understand the operation of semiconductor devices.  
+
+I took the *Primer on Semiconductor Fundamentals*, taught by Prof. Mark Lundstrom, first in order to gain a framework for understanding the operation of semiconductor device. 
 
