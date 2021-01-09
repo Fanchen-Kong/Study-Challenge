@@ -16,6 +16,7 @@ Time line:
 
 1. Finished [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Build%20a%20Modern%20Computer%20from%20First%20Principles) during 12/25/2020-12/30/2020
 2. Finished [Introduction to Complex Analysis](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Mathematical%20Methods%20for%20Physics) during 1/1/2021-1/4/2021
+3. Finished [Primer on Semiconductor Fundamentals](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) during 1/6/2021-1/10/2021
 
 
 # KU Leuven学习挑战
@@ -35,4 +36,5 @@ Time line:
 时间线：
 
 1. 于 2020/12/25-2020/12/30 完成了 [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Build%20a%20Modern%20Computer%20from%20First%20Principles)
-2. 于 2021/1/1-2021/1/4 完成了 [Introduction to Complex Analysis](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Mathematical%20Methods%20for%20Physics
+2. 于 2021/1/1-2021/1/4 完成了 [Introduction to Complex Analysis](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Mathematical%20Methods%20for%20Physics)
+3. 于 2021/1/6-2021/1/10 完成了 [Primer on Semiconductor Fundamentals](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) 
