@@ -10,15 +10,15 @@ Syllabus of this course @ KU Leuven could be found on [Semiconductor Physics (B-
 
 [Primer on Semiconductor Fundamentals, Prof. Mark Lundstrom, Purdue University](https://nanohub.org/courses/psf)
 
-[Semiconductor Device Physics, Prof. Sze Simon Min, National Chiao Tung University ](
+[Semiconductor Device Physics, Prof. Sze Simon Min, National Chiao Tung University ](https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=1751)
 
 **Books:**
 
 Sze, Simon Min. *Semiconductor devices: physics and technology*. John wiley & sons, 2012.
 
-https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=1751)
-
 This course is the supplement course of my project.
 
+**Time line:**
 
+- Finished *Primer on Semiconductor Fundamentals* during 1/6/2021-1/10/2021
 
