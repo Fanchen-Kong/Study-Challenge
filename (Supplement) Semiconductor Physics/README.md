@@ -12,6 +12,8 @@ Syllabus of this course @ KU Leuven could be found on [Semiconductor Physics (B-
 
 [Semiconductor Device Physics, Prof. Sze Simon Min, National Chiao Tung University ](https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=1751)
 
+[Solid State Device 1, Prof. Gerhard Klimeck, Purdue University](https://www.edx.org/course/solid-state-devices-1)
+
 **Books:**
 
 Sze, Simon Min. *Semiconductor devices: physics and technology*. John wiley & sons, 2012.
