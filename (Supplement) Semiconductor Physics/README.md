@@ -25,8 +25,9 @@ Sze, Simon Min. *Semiconductor devices: physics and technology*. John wiley & so
 
 This course is the supplement course of my project.
 
-The purpose of this course is to provide the essential foundations required to understand the operation of semiconductor devices.  
+The purpose of this course is to provide the essential foundations required to understand the operation of semiconductor devices.  I first took series of fundamental courses (about 10hs/course) to gain a better understanding of the necessary physics picture of semiconductor devices. Then I took the full advanced course ***Solid State Circuit 1*** (16 weeks for 7-10 hours/week), from Purdue MSECE course, to encapsulate the whole course. 
 
-I took the *Primer on Semiconductor Fundamentals*, taught by Prof. Mark Lundstrom, first in order to gain a framework for understanding the operation of semiconductor device. 
+I took the *Primer on Semiconductor Fundamentals*, taught by Prof. Mark Lundstrom, in order to gain a framework for understanding the operation of semiconductor device. 
 
 After that, I took the *Concise Solid State Physics*, taught by Prof. Yicong Ye.
+
