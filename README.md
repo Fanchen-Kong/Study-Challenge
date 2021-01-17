@@ -41,5 +41,5 @@ Time line:
 3. 于 2021/1/6 - 2021/1/10 完成了 *[Primer on Semiconductor Fundamentals](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics)* 
 4. 于 2021/1/10 -  2021/1/13 完成了 [*Concise Solid State physics*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics)
 
-![Programe Overview](https://raw.githubusercontent.com/Fanchen-Kong/Study-Challenge/0ff90175e169f44f64077c9b5ae1f3f2ad159cfd/programe%20overview.svg)
+![Programe Overview](https://github.com/Fanchen-Kong/Study-Challenge/blob/main/programe%20overview.png?raw=true)
 
