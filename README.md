@@ -18,6 +18,7 @@ Time line:
 2. Finished *[Introduction to Complex Analysis](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Mathematical%20Methods%20for%20Physics)* during 1/1/2021 - 1/4/2021
 3. Finished *[Primer on Semiconductor Fundamentals](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics)* during 1/6/2021 - 1/10/2021
 4. Finished [*Concise Solid State physics*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) during 1/10/2021 - 1/13/2021
+5. Finished *Electromagnetic* during 1/16/2021-1/22/2021
 
 
 # KU Leuven学习挑战
@@ -40,6 +41,7 @@ Time line:
 2. 于 2021/1/1 - 2021/1/4 完成了 *[Introduction to Complex Analysis](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Mathematical%20Methods%20for%20Physics)*
 3. 于 2021/1/6 - 2021/1/10 完成了 *[Primer on Semiconductor Fundamentals](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics)* 
 4. 于 2021/1/10 -  2021/1/13 完成了 [*Concise Solid State physics*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics)
+5. 于 2021/1/16 - 2021/1/22 完成了 *Electromagnetic*
 
 ![Programe Overview](https://github.com/Fanchen-Kong/Study-Challenge/blob/main/programe%20overview.png?raw=true)
 
