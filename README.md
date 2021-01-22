@@ -20,12 +20,12 @@ Time line:
 4. Finished [*Concise Solid State physics*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) during 1/10/2021 - 1/13/2021
 5. Finished *Electromagnetic* during 1/16/2021-1/22/2021
 6. Starting [*Solid State Device*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) at 1/22/2021
-7. Starting Medical Neuroscience
+7. Starting Medical Neuroscience at 1/25/2021
 
 
 # KU Leuven学习挑战
 
-各位好，我是一名拿到KU Leuven MSEE录取的学生。由于本科所学的专业（自动化）和鲁汶录取的 track (Electronics and Chip Design) 有一定差距，并且耳闻鲁汶的课业压力巨大，所以想通过这次挑战提前通过网络上优质资源给自己一定的知识储备以应对未来的硕士课程。
+各位好，我是一名拿到 KU Leuven MSEE 录取的学生。由于本科所学的专业（自动化）和鲁汶录取的 track (Electronics and Chip Design) 有一定差距，并且耳闻鲁汶的课业压力巨大，所以想通过这次挑战提前通过网络上优质资源给自己一定的知识储备以应对未来的硕士课程。
 
 在未来的10个月（2021/1/1-2021/9/31），我计划自学 KU Leuven MSEE (Electronics and Chip Design) [培养计划](https://onderwijsaanbod.kuleuven.be/2020/opleidingen/e/SC_55032326.htm) 中的15门必修课程，并且辅以相关的基础课程作为补充。在培养计划中，我们能找到每门课的目标和大致的教学计划，有些还会列出教学参考书目，从而方便了我查找相似课程的公开课并且提前熟悉知识架构。
 
