@@ -20,6 +20,8 @@ Time line:
 4. Finished [*Concise Solid State physics*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) during 1/10/2021 - 1/13/2021
 5. Finished *Electromagnetic* during 1/16/2021-1/22/2021
 6. Starting [*Solid State Device*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) at 1/22/2021
+7. Starting Medical Neuroscience
+8. Starting Computer Systems: A programmer's Perspective
 
 
 # KU Leuven学习挑战
