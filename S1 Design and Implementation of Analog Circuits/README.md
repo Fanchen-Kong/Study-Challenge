@@ -16,6 +16,14 @@ Electronic Circuits 2, Prof. Behzad Razavi, UCLA
 
 [New concept Analog Circuit, Prof. Jianguo Yang, XJTU](https://www.bilibili.com/video/BV1xE411N7EZ)
 
+[Analog Integrated Circuits, Prof. Clark Nguyen, UCB](https://inst.eecs.berkeley.edu/~ee140/fa13/index.html)
+
+[Advanced Analog Integrated Circuits, Prof. Elad Alon, UCB](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee240_sp12/lectures.html)
+
+Analog Digital Interface Integrated Circuits, UCB
+
+High-Speed Electrical Interface Circuit Design, UCB
+
 **Books:**
 
 Razavi, Behzad. *Design of analog CMOS integrated circuits*. Tata McGraw-Hill Education, 2002.
