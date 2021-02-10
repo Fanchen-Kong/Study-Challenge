@@ -26,7 +26,9 @@ Time line:
 
 6. Starting [*Solid State Device*](https://github.com/Fanchen-Kong/Study-Challenge/tree/main/(Supplement)%20Semiconductor%20Physics) at 1/22/2021
 
-7. Starting Electronic Circuits 1 2 at 1/24/2021
+7. Finished Electronic Circuits 1 2 from 1/24/2021 - 2/10/2021
+
+8. Starting the APS evaluation after the Chinese New Year to 3/28/2021
 
    
 
